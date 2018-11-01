@@ -7,7 +7,7 @@
 
 
 # sports.py
-Gather live up-to-date sports scores. Baseball, basketball, cricket, football, handball, hockey, rugby, soccer, tennis, and volleyball currently functional
+Gather live up-to-date sports scores. Baseball, basketball, cricket, football, handball, hockey, rugby, soccer, tennis, and volleyball currently functional -Ryan
 
 Scrapes data from:
 - [scorespro.com](https://www.scorespro.com/)
